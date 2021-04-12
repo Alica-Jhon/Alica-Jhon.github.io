@@ -40,6 +40,14 @@ body {
     margin: 0;
     color: #7F95D1;
 
+    background-color: #eaeaea;
+
+    background: linear-gradient(60deg, rgba(224,255,125, 0.5) 5%, rgba(0, 228, 255, 0.35)) 0% 0% / cover；background-attachment: fixed;
+    margin: 0;
+
+    color: #34495e;
+
+
 }
 
 h1 {
@@ -243,7 +251,7 @@ mark {
 
 .bg-color {
     background-image: linear-gradient(to right,     #4682B4 0%, #EE1289 100%);
-
+    opacity: 0.9;
 }
 
 .text-color {
