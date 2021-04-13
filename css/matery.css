@@ -35,7 +35,7 @@
 
 body {
     /* background-color: #eaeaea; */
-    background: linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)) 0% 0% / cover, url("https://ae01.alicdn.com/kf/H18a4b998752a4ae68b8e85d432a5aef0l.png"), url("https://z3.ax1x.com/2021/04/10/cd6vlD.jpg") 0px 0px;
+    background: linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)) 0% 0% / cover, url("https://ae01.alicdn.com/kf/H18a4b998752a4ae68b8e85d432a5aef0l.png"), url("https://z3.ax1x.com/2021/04/13/crTV56.jpg") 0px 0px;
     background-attachment: fixed;
     margin: 0;
     color: #7F95D1;
@@ -125,8 +125,8 @@ pre {
     top: 0;
     left: 12px;
     margin-top: 12px;
-    -webkit-box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
-    box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
+    -webkit-box-shadow: 20px 0 #FF99CC, 40px 0 #ee77e8;
+    box-shadow: 20px 0 #FF99CC, 40px 0 #ee77e8;
 }
 
 code {
@@ -250,12 +250,12 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right,     #4682B4 0%, #EE1289 100%);
+    background-image: linear-gradient(to right,     #FFCC99 0%, #FF99CC 100%);
     opacity: 0.9;
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    color: #ee85b9 !important;
 }
 
 .white-color {
@@ -267,7 +267,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right,#c93f84 0%, #ee85b9 100%);
     opacity: 0.8;
 }
 
@@ -589,6 +589,7 @@ header .go-back i {
     line-height: 1.2em;
     margin-bottom: 20px;
     position: relative;
+
 }
 
 .bg-cover .description {

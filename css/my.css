@@ -11,4 +11,12 @@
         font-size: 1.5rem;
     }
 }
+Css
+@font-face{
+    font-family: 'xingkai';
+    src: url('../font/xingkai.ttf');
+}
 
+.diyFont{
+    font-family: 'xingkai';
+}
