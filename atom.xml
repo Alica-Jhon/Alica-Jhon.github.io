@@ -6,7 +6,7 @@
   <link href="https://alica-jhon.github.io/atom.xml" rel="self"/>
   
   <link href="https://alica-jhon.github.io/"/>
-  <updated>2021-04-17T07:47:11.772Z</updated>
+  <updated>2021-04-17T08:00:51.398Z</updated>
   <id>https://alica-jhon.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python控制台输出俄罗斯方块</title>
+    <link href="https://alica-jhon.github.io/2021/04/17/Python%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%BE%93%E5%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/"/>
+    <id>https://alica-jhon.github.io/2021/04/17/Python%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%BE%93%E5%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/</id>
+    <published>2021-04-17T07:54:49.152Z</published>
+    <updated>2021-04-17T08:00:51.398Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;俄罗斯方块-打印&quot;&gt;&lt;a href=&quot;#俄罗斯方块-打印&quot; class=&quot;headerlink&quot; title=&quot;俄罗斯方块-打印&quot;&gt;&lt;/a&gt;俄罗斯方块-打印&lt;/h2&gt;&lt;h3 id=&quot;功能：输入字母，打印俄罗斯方块的-图形&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://alica-jhon.github.io/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://alica-jhon.github.io/tags/Python/"/>
+    
+    <category term="数据结构" scheme="https://alica-jhon.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="字典" scheme="https://alica-jhon.github.io/tags/%E5%AD%97%E5%85%B8/"/>
+    
+    <category term="列表" scheme="https://alica-jhon.github.io/tags/%E5%88%97%E8%A1%A8/"/>
+    
+    <category term="元组" scheme="https://alica-jhon.github.io/tags/%E5%85%83%E7%BB%84/"/>
+    
+  </entry>
   
   <entry>
     <title>蓝桥杯 历届试题 小朋友排队 Python</title>
