@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>蓝桥杯 历届试题 小朋友排队 Python</title>
+      <link href="2021/04/15/%E8%93%9D%E6%A1%A5%E6%9D%AF%20%E5%8E%86%E5%B1%8A%E8%AF%95%E9%A2%98%20%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%8E%92%E9%98%9F%20python/"/>
+      <url>2021/04/15/%E8%93%9D%E6%A1%A5%E6%9D%AF%20%E5%8E%86%E5%B1%8A%E8%AF%95%E9%A2%98%20%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%8E%92%E9%98%9F%20python/</url>
+      
+        <content type="html"><![CDATA[<h2 id="蓝桥杯-历届试题-小朋友排队-Python"><a href="#蓝桥杯-历届试题-小朋友排队-Python" class="headerlink" title="蓝桥杯 历届试题 小朋友排队 Python"></a>蓝桥杯 历届试题 小朋友排队 Python</h2><p>问题描述<br>　　n 个小朋友站成一排。现在要把他们按身高从低到高的顺序排列，但是每次只能交换位置相邻的两个小朋友。</p><p>每个小朋友都有一个不高兴的程度。开始的时候，所有小朋友的不高兴程度都是0。</p><p>如果某个小朋友第一次被要求交换，则他的不高兴程度增加1，如果第二次要求他交换，则他的不高兴程度增加2（即不高兴程度为3），依次类推。当要求某个小朋友第k次交换时，他的不高兴程度增加k。</p><p>请问，要让所有小朋友按从低到高排队，他们的不高兴程度之和最小是多少。</p><p>如果有两个小朋友身高一样，则他们谁站在谁前面是没有关系的。<br>输入格式<br>　　输入的第一行包含一个整数n，表示小朋友的个数。<br>　　第二行包含 n 个整数 H1 H2 … Hn，分别表示每个小朋友的身高。<br>输出格式<br>　　输出一行，包含一个整数，表示小朋友的不高兴程度和的最小值。<br>样例输入<br>3<br>3 2 1<br>样例输出<br>9<br>样例说明<br>　　首先交换身高为3和2的小朋友，再交换身高为3和1的小朋友，再交换身高为2和1的小朋友，每个小朋友的不高兴程度都是3，总和为9。<br>数据规模和约定<br>　　对于10%的数据， 1&lt;=n&lt;=10；<br>　　对于30%的数据， 1&lt;=n&lt;=1000；<br>　　对于50%的数据， 1&lt;=n&lt;=10000；<br>　　对于100%的数据，1&lt;=n&lt;=100000，0&lt;=Hi&lt;=1000000。</p><h2 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h2><p>每一个小朋友最少的交换次数等于他左边比他高的人数加上右边比他矮的人数和。如果从左往右依次对每一个小朋友遍历，会超时，得分在20左右。<br>使用树状数组，先从左往右依次插入元素，每一次插入前查询比当前元素大的元素个数（即以当期前元素为后项的逆序对个数），作为左边比他大的元素个数；<br>再将树状数组清零，从右往左依次插入元素，每一次插入前查询比当前元素小的元素个数（即以当期前元素为前项的逆序对个数），作为右边比他小的元素个数，最后得到每一个元素最少的交换次数，进而求出总的不高兴程度。<br>但是为什么这段代码还是只得了70分，求大神解答。。。。</p><pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">def discretization(h):#数组离散化    temp=list(set(h))    temp.sort()    for i in range(len(h)):        h[i]=temp.index(h[i])+1def lowbit(x):    return x&amp;-xdef insert(i):    while i&lt;len(C):        C[i]+=1        i+=lowbit(i)def sum_(i):#计算当前状态下i之前的元素总和(即当前状态下比i小的元素)    s=0    while(i&gt;0):        s+=C[i]        i-=lowbit(i)    return sn=int(input())H=list(map(int,input().split()))ans=[0 for _ in range(n)]#用于存储每个小朋友的最少交换次数res=0discretization(H)C=[0 for _ in range(len(set(H))+1)]#数状数组for i in range(n):#从最左端开始插入，计算比当前元素大的元素个数    ans[i]=i-sum_(H[i])    insert(H[i])C=[0 for _ in range(len(set(H))+1)]#数状数组清零for i in range(n-1,-1,-1):#从最右端开始插入，计算比当前元素小的元素个数    ans[i]+=sum_(H[i]-1)    insert(H[i])for i in range(n):    res+=int((1+ans[i])*ans[i]/2)print(res)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 蓝桥杯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>理解js继承的六种方式</title>
       <link href="2021/04/10/%E7%90%86%E8%A7%A3js%E7%BB%A7%E6%89%BF%E7%9A%84%E5%85%AD%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
       <url>2021/04/10/%E7%90%86%E8%A7%A3js%E7%BB%A7%E6%89%BF%E7%9A%84%E5%85%AD%E7%A7%8D%E6%96%B9%E5%BC%8F/</url>
