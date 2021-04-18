@@ -277,14 +277,14 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/python/</loc>
+    <loc>https://alica-jhon.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF%E4%BB%A3%E7%A0%81/</loc>
+    <loc>https://alica-jhon.github.io/tags/python/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,13 +328,6 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/js/</loc>
-    <lastmod>2021-04-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://alica-jhon.github.io/categories/java/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
@@ -350,6 +343,13 @@
   
   <url>
     <loc>https://alica-jhon.github.io/categories/html/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-04-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/categories/js/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
