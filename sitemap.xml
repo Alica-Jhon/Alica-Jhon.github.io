@@ -242,6 +242,13 @@
   </url>
   
   <url>
+    <loc>https://alica-jhon.github.io/tags/python/</loc>
+    <lastmod>2021-04-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://alica-jhon.github.io/tags/HTML/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
@@ -263,14 +270,7 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/javascript/</loc>
-    <lastmod>2021-04-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alica-jhon.github.io/tags/%E7%BB%A7%E6%89%BF/</loc>
+    <loc>https://alica-jhon.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,14 +284,14 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/python/</loc>
+    <loc>https://alica-jhon.github.io/tags/javascript/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/</loc>
+    <loc>https://alica-jhon.github.io/tags/%E7%BB%A7%E6%89%BF/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -321,6 +321,13 @@
   </url>
   
   <url>
+    <loc>https://alica-jhon.github.io/categories/python/</loc>
+    <lastmod>2021-04-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://alica-jhon.github.io/categories/html/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
@@ -342,13 +349,6 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/html/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-04-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://alica-jhon.github.io/categories/js/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
@@ -356,14 +356,14 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/python/</loc>
+    <loc>https://alica-jhon.github.io/categories/python/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/python/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://alica-jhon.github.io/categories/html/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
