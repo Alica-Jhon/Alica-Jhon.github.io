@@ -6,7 +6,7 @@
   <link href="https://alica-jhon.github.io/atom.xml" rel="self"/>
   
   <link href="https://alica-jhon.github.io/"/>
-  <updated>2021-04-19T05:49:09.979Z</updated>
+  <updated>2021-04-20T07:39:10.502Z</updated>
   <id>https://alica-jhon.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JS实现简单网页计算器</title>
+    <link href="https://alica-jhon.github.io/2021/04/19/JS%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E7%BD%91%E9%A1%B5%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
+    <id>https://alica-jhon.github.io/2021/04/19/JS%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E7%BD%91%E9%A1%B5%E8%AE%A1%E7%AE%97%E5%99%A8/</id>
+    <published>2021-04-19T13:34:56.007Z</published>
+    <updated>2021-04-20T07:39:10.502Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;js实现简易计算器。计算器的布局不像表格那么公正对称，所以布局这块相对比较繁琐，但是也可以通过这来练习一下CSS。&lt;/p&gt;
+&lt;h2 id=&quot;一、实现功能&quot;&gt;&lt;a href=&quot;#一、实现功能&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="js" scheme="https://alica-jhon.github.io/categories/js/"/>
+    
+    <category term="web前端" scheme="https://alica-jhon.github.io/categories/js/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="javascript" scheme="https://alica-jhon.github.io/tags/javascript/"/>
+    
+    <category term="计算器" scheme="https://alica-jhon.github.io/tags/%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
+    
+    <category term="js实现计算器" scheme="https://alica-jhon.github.io/tags/js%E5%AE%9E%E7%8E%B0%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Win10 CMD命令大全与超好用的快捷键</title>
@@ -122,9 +154,9 @@
     <category term="html" scheme="https://alica-jhon.github.io/categories/html/"/>
     
     
-    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
-    
     <category term="javascript" scheme="https://alica-jhon.github.io/tags/javascript/"/>
+    
+    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
     
     <category term="CSS" scheme="https://alica-jhon.github.io/tags/CSS/"/>
     
@@ -135,7 +167,7 @@
     <link href="https://alica-jhon.github.io/2021/04/18/%E2%80%9C%E4%BB%A3%E7%A0%81%E9%9B%A8%E2%80%9D%E7%BA%AFHTML%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%8F%8A%E6%95%88%E6%9E%9C/"/>
     <id>https://alica-jhon.github.io/2021/04/18/%E2%80%9C%E4%BB%A3%E7%A0%81%E9%9B%A8%E2%80%9D%E7%BA%AFHTML%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%8F%8A%E6%95%88%E6%9E%9C/</id>
     <published>2021-04-18T09:08:56.831Z</published>
-    <updated>2021-04-19T05:49:30.023Z</updated>
+    <updated>2021-04-19T06:54:09.791Z</updated>
     
     
       
