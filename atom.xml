@@ -6,7 +6,7 @@
   <link href="https://alica-jhon.github.io/atom.xml" rel="self"/>
   
   <link href="https://alica-jhon.github.io/"/>
-  <updated>2021-04-20T07:39:10.502Z</updated>
+  <updated>2021-04-21T11:56:02.893Z</updated>
   <id>https://alica-jhon.github.io/</id>
   
   <author>
@@ -17,11 +17,67 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Android学习笔记——Galley</title>
+    <link href="https://alica-jhon.github.io/2021/04/21/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Galley/"/>
+    <id>https://alica-jhon.github.io/2021/04/21/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Galley/</id>
+    <published>2021-04-21T11:26:18.212Z</published>
+    <updated>2021-04-21T11:56:02.893Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Gallery==&amp;gt;画廊视图&lt;/p&gt;
+&lt;p&gt;Gallery和Spinnery父类相同——AbsSpinner,表明Garrey和Spinner都是一个列表框。&lt;/p&gt;
+&lt;p&gt;两者之间的区别是：Spinner显示的是一个垂直列表框，Gallery显示的是一个水平列表框；</summary>
+        
+      
+    
+    
+    
+    <category term="Android" scheme="https://alica-jhon.github.io/categories/Android/"/>
+    
+    
+    <category term="android" scheme="https://alica-jhon.github.io/tags/android/"/>
+    
+    <category term="移动开发" scheme="https://alica-jhon.github.io/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android学习笔记——Spinner</title>
+    <link href="https://alica-jhon.github.io/2021/04/21/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Spinner/"/>
+    <id>https://alica-jhon.github.io/2021/04/21/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Spinner/</id>
+    <published>2021-04-21T11:16:29.284Z</published>
+    <updated>2021-04-21T12:02:26.170Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Spinner的功能与用法&quot;&gt;&lt;a href=&quot;#Spinner的功能与用法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Android" scheme="https://alica-jhon.github.io/categories/Android/"/>
+    
+    
+    <category term="android" scheme="https://alica-jhon.github.io/tags/android/"/>
+    
+    <category term="移动开发" scheme="https://alica-jhon.github.io/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JS实现简单网页计算器</title>
     <link href="https://alica-jhon.github.io/2021/04/19/JS%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E7%BD%91%E9%A1%B5%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
     <id>https://alica-jhon.github.io/2021/04/19/JS%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E7%BD%91%E9%A1%B5%E8%AE%A1%E7%AE%97%E5%99%A8/</id>
     <published>2021-04-19T13:34:56.007Z</published>
-    <updated>2021-04-20T07:39:10.502Z</updated>
+    <updated>2021-04-20T10:17:26.098Z</updated>
     
     
       
