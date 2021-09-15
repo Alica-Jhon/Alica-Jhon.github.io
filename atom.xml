@@ -6,15 +6,55 @@
   <link href="https://alica-jhon.github.io/atom.xml" rel="self"/>
   
   <link href="https://alica-jhon.github.io/"/>
-  <updated>2021-04-22T11:39:35.201Z</updated>
+  <updated>2021-05-05T03:39:26.380Z</updated>
   <id>https://alica-jhon.github.io/</id>
   
   <author>
-    <name>Alica-Jhon</name>
+    <name>郭梦圆</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web编程基础知识</title>
+    <link href="https://alica-jhon.github.io/2021/05/05/Web%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <id>https://alica-jhon.github.io/2021/05/05/Web%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
+    <published>2021-05-05T03:11:01.706Z</published>
+    <updated>2021-05-05T03:39:26.380Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;##1 Html: HyperText Markup Language，超文本标记语言，网络内容载体&lt;/p&gt;
+&lt;h3 id=&quot;1-Html是网页内容载体、CSS（层叠样式表）样式是表现、JavaScript是用来实现网页的特效效果&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="web前端" scheme="https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="html" scheme="https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/html/"/>
+    
+    <category term="js" scheme="https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/html/js/"/>
+    
+    <category term="PHP" scheme="https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/html/js/PHP/"/>
+    
+    
+    <category term="javascript" scheme="https://alica-jhon.github.io/tags/javascript/"/>
+    
+    <category term="web" scheme="https://alica-jhon.github.io/tags/web/"/>
+    
+    <category term="CSS" scheme="https://alica-jhon.github.io/tags/CSS/"/>
+    
+    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
+    
+    <category term="PHP" scheme="https://alica-jhon.github.io/tags/PHP/"/>
+    
+  </entry>
   
   <entry>
     <title>蓝桥杯真题——装饰珠</title>
@@ -243,9 +283,9 @@
     
     <category term="javascript" scheme="https://alica-jhon.github.io/tags/javascript/"/>
     
-    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
-    
     <category term="CSS" scheme="https://alica-jhon.github.io/tags/CSS/"/>
+    
+    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
     
   </entry>
   
@@ -270,11 +310,11 @@
     <category term="html" scheme="https://alica-jhon.github.io/categories/html/"/>
     
     
+    <category term="web" scheme="https://alica-jhon.github.io/tags/web/"/>
+    
     <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
     
     <category term="代码雨" scheme="https://alica-jhon.github.io/tags/%E4%BB%A3%E7%A0%81%E9%9B%A8/"/>
-    
-    <category term="web" scheme="https://alica-jhon.github.io/tags/web/"/>
     
   </entry>
   
@@ -442,9 +482,9 @@
     <category term="web前端" scheme="https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
-    
     <category term="CSS" scheme="https://alica-jhon.github.io/tags/CSS/"/>
+    
+    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
     
   </entry>
   
