@@ -6,7 +6,7 @@
   <link href="https://alica-jhon.github.io/atom.xml" rel="self"/>
   
   <link href="https://alica-jhon.github.io/"/>
-  <updated>2021-05-05T03:39:26.380Z</updated>
+  <updated>2021-09-27T01:52:40.239Z</updated>
   <id>https://alica-jhon.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试测试</title>
+    <link href="https://alica-jhon.github.io/2021/09/27/%E4%BC%9A%E8%AF%B4%E7%9A%84%E5%AE%8C%E5%85%A8/"/>
+    <id>https://alica-jhon.github.io/2021/09/27/%E4%BC%9A%E8%AF%B4%E7%9A%84%E5%AE%8C%E5%85%A8/</id>
+    <published>2021-09-27T01:42:08.274Z</published>
+    <updated>2021-09-27T01:52:40.239Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;原型链继承&quot;&gt;&lt;a href=&quot;#原型链继承&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="js" scheme="https://alica-jhon.github.io/categories/js/"/>
+    
+    
+    <category term="javascript" scheme="https://alica-jhon.github.io/tags/javascript/"/>
+    
+    <category term="继承" scheme="https://alica-jhon.github.io/tags/%E7%BB%A7%E6%89%BF/"/>
+    
+  </entry>
   
   <entry>
     <title>Web编程基础知识</title>
