@@ -312,34 +312,6 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/web/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alica-jhon.github.io/tags/CSS/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alica-jhon.github.io/tags/HTML/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alica-jhon.github.io/tags/PHP/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://alica-jhon.github.io/tags/python/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
@@ -375,14 +347,28 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/%E4%BB%A3%E7%A0%81%E9%9B%A8/</loc>
+    <loc>https://alica-jhon.github.io/tags/web/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/%E7%BB%A7%E6%89%BF/</loc>
+    <loc>https://alica-jhon.github.io/tags/CSS/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/tags/HTML/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/tags/PHP/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -397,6 +383,20 @@
   
   <url>
     <loc>https://alica-jhon.github.io/tags/cmd/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/tags/%E7%BB%A7%E6%89%BF/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/tags/%E4%BB%A3%E7%A0%81%E9%9B%A8/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -438,14 +438,14 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://alica-jhon.github.io/tags/%E8%BD%AE%E6%92%AD%E5%9B%BE/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/tags/%E8%BD%AE%E6%92%AD%E5%9B%BE/</loc>
+    <loc>https://alica-jhon.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -503,13 +503,6 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://alica-jhon.github.io/categories/python/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
@@ -517,14 +510,7 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/html/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alica-jhon.github.io/categories/js/web%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -538,7 +524,14 @@
   </url>
   
   <url>
-    <loc>https://alica-jhon.github.io/categories/C/</loc>
+    <loc>https://alica-jhon.github.io/categories/js/web%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/categories/html/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -546,13 +539,6 @@
   
   <url>
     <loc>https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/html/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alica-jhon.github.io/categories/C/c/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -567,6 +553,20 @@
   
   <url>
     <loc>https://alica-jhon.github.io/categories/web%E5%89%8D%E7%AB%AF/html/js/PHP/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/categories/C/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alica-jhon.github.io/categories/C/c/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
