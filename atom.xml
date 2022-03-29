@@ -6,7 +6,7 @@
   <link href="https://alica-jhon.github.io/atom.xml" rel="self"/>
   
   <link href="https://alica-jhon.github.io/"/>
-  <updated>2021-09-27T01:52:40.239Z</updated>
+  <updated>2022-03-29T10:26:35.283Z</updated>
   <id>https://alica-jhon.github.io/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简单实现轮播图</title>
+    <link href="https://alica-jhon.github.io/2022/03/29/photos/%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E8%BD%AE%E6%92%AD%E5%9B%BE/"/>
+    <id>https://alica-jhon.github.io/2022/03/29/photos/%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E8%BD%AE%E6%92%AD%E5%9B%BE/</id>
+    <published>2022-03-29T10:00:00.905Z</published>
+    <updated>2022-03-29T10:26:35.283Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;展示&quot;&gt;&lt;a href=&quot;#展示&quot; class=&quot;headerlink&quot; title=&quot;展示&quot;&gt;&lt;/a&gt;展示&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/q66urV&quot;&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="html" scheme="https://alica-jhon.github.io/categories/html/"/>
+    
+    
+    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
+    
+    <category term="js" scheme="https://alica-jhon.github.io/tags/js/"/>
+    
+    <category term="轮播图" scheme="https://alica-jhon.github.io/tags/%E8%BD%AE%E6%92%AD%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js实现简单的选字游戏</title>
+    <link href="https://alica-jhon.github.io/2022/03/29/photos/js%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%9A%84%E9%80%89%E5%AD%97%E6%B8%B8%E6%88%8F/"/>
+    <id>https://alica-jhon.github.io/2022/03/29/photos/js%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%9A%84%E9%80%89%E5%AD%97%E6%B8%B8%E6%88%8F/</id>
+    <published>2022-03-29T09:32:11.880Z</published>
+    <updated>2022-03-29T10:01:31.025Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;展示&quot;&gt;&lt;a href=&quot;#展示&quot; class=&quot;headerlink&quot; title=&quot;展示&quot;&gt;&lt;/a&gt;展示&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/q60TRP&quot;&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="html" scheme="https://alica-jhon.github.io/categories/html/"/>
+    
+    
+    <category term="HTML" scheme="https://alica-jhon.github.io/tags/HTML/"/>
+    
+    <category term="js" scheme="https://alica-jhon.github.io/tags/js/"/>
+    
+    <category term="游戏" scheme="https://alica-jhon.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>测试测试</title>
@@ -88,7 +146,7 @@
     <link href="https://alica-jhon.github.io/2021/04/22/%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E2%80%94%E2%80%94%E8%A3%85%E9%A5%B0%E7%8F%A0/"/>
     <id>https://alica-jhon.github.io/2021/04/22/%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E2%80%94%E2%80%94%E8%A3%85%E9%A5%B0%E7%8F%A0/</id>
     <published>2021-04-22T11:33:38.610Z</published>
-    <updated>2021-04-22T11:39:35.201Z</updated>
+    <updated>2022-03-28T11:57:52.240Z</updated>
     
     
       
